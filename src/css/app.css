@@ -1,0 +1,15 @@
+/* app global css */
+/* app global css */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,100&display=swap");
+
+:root {
+  --q-primary: #223040;
+  --q-secondary: #0b2a63;
+  --q-accent: linear-gradient(95.45deg, #0b2a63 0.64%, #1c2c7a 98.23%);
+  --q-positive: #091740;
+  --q-negative: #c10015;
+  --q-info: #6ec1e4;
+  --q-warning: #f2c037;
+  --q-dark: #f6f7f8;
+  --q-dark-page: #f6f7f8;
+}
