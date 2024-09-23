@@ -1,8 +1,8 @@
 {
   "name": "scraping-proyect",
   "version": "0.0.1",
-  "description": "cloudmedia proyect scraping",
-  "productName": "googlescrap",
+  "description": "hackaton proyect",
+  "productName": "hackaton",
   "author": "Kevin More <kore_2608@hotmail.com>",
   "private": true,
   "scripts": {
