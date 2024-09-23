@@ -68,8 +68,7 @@ import {
 import EssentialLink from "components/EssentialLink.vue";
 import { useRouter } from "vue-router";
 import logo from "../assets/logoazuloscuro.png";
-import fondoPanel from "../assets/amazon2.jpg";
-import imagenLogoPequeño from "../../public/icons/vector.svg";
+import fondoPanel from "../assets/amazon2.jpg"; 
 import useUI from "../composables/useUI";
 const linksList = [
   {
@@ -154,8 +153,7 @@ export default defineComponent({
       leftDrawerOpen,
       tiendalogin,
       isFocused,
-      options,
-      imagenLogoPequeño,
+      options, 
       selectedIndex,
       drawer: ref(false),
       miniState,
